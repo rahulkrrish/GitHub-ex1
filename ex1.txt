@@ -1,0 +1,6 @@
+GitHub Practical
+
+Name: Rahul Krishna
+Course: M.Sc. Software Systems
+
+This is my first text file uploaded to GitHub.
